@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HamburguesasDelMundo.xcodeproj">
+      location = "self:/Users/jasonsolano/Documents/HamburguesasDelMundo/Hamburguesas.xcodeproj">
    </FileRef>
 </Workspace>
